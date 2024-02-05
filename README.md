@@ -1,1 +1,1 @@
-# Wildlife-Tiny-ML-solution-for-wildlife-monitoring
+# Next-Gen tinyML Smart Weather Station 2024
